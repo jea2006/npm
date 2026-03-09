@@ -1,9 +1,9 @@
 const config = {
   db: {
-    host: "localhost",
-    user: "root",
-    password: "root",
-    database: "astral_db",
+    host: "",
+    user: "",
+    password: "",
+    database: "",
   },
 
   listPerPage: 10,
